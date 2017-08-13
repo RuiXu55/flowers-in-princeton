@@ -127,7 +127,7 @@
 	- [Fairy-fan flower](xia/Fairyfan.md)
 	- [Chinese astilbe](xia/Astilbe.md)
 	- [Dusty miller](xia/Dustymiller.md)
-	- [Tigerlily](Tigerlily1.md)
+	- [Tigerlily](Tigerlily.md)
 	- [Crape myrtle](CrapeMyrtle.md)
 	- [Rose of Sharon](RoseofSharon.md)
 	- [Oriental Lily](OrientalLily.md)

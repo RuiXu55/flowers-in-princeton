@@ -7,3 +7,8 @@
 **Locations in Campus:** Picture taken in front of McCosh Health Center.
 
 **Additional pictures:**
+
+![](http://www.astro.princeton.edu/~ruixu/fig/Begonia1.jpg)
+"Einstein's begonia": Einstein's secretary gave some cuttings from Einstein's
+garden to the wives of physics professors who in turn gabe cuttings to other
+people. Picture taken at 176 Western Way. 

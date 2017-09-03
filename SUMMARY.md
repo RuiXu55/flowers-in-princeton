@@ -145,4 +145,5 @@
 	- [Anemone](qiu/Anemone.md)
 	- [Gomphrena fireworks](qiu/Gomphrena.md)
 	- [Joe pye weed](qiu/JoePyeWeed.md)
+	- [Carnation](qiu/Carnation.md)
 * [Winter](dong/README.md)

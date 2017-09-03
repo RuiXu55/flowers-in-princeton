@@ -6,3 +6,4 @@
 **Locations in Campus:** Prospect Garden
 
 **Additional pictures:**
+![](http://www.astro.princeton.edu/~ruixu/fig/Flossflower1.jpg)

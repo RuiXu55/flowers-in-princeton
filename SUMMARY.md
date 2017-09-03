@@ -134,6 +134,7 @@
 	- [Trumpet Vine](xia/TrumpetVine.md)
 	- [Tiger lily](xia/Tigerlily.md)
 * [Autumn](qiu/README.md)
+  - [Sweet Autumn Clematis](qiu/SweetAutumnClematis.md)
 	- [Purple sneezeweed](qiu/Purplesneezeweed.md)
 	- [Japanese maple](qiu/Japanesemaple.md)
 	- [Angelonia](qiu/Angelonia.md)

@@ -148,6 +148,6 @@
 	- [Joe pye weed](qiu/JoePyeWeed.md)
 	- [Carnation](qiu/Carnation.md)
 	- [Carolina horsenettle](qiu/CarolinaHorsenettle.md)
-	- [Blue vervain](qiu/BluVervain.md)
+	- [Blue vervain](qiu/BlueVervain.md)
 	- [Datura](qiu/Datura.md)
 * [Winter](dong/README.md)

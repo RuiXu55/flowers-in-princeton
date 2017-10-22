@@ -160,4 +160,6 @@
 	- [Late Purple American Aster](qiu/LatePurpleAmericanAster.md)
 	- [Toad Lily](qiu/ToadLilies.md)
 	- [large-leaved aster](qiu/Large-leaved-Aster.md)
+	- [purpletop-vervain](qiu/purpletop-vervain.md)
+	- [Summer Lilac](qiu/SummerLilac.md)
 * [Winter](dong/README.md)

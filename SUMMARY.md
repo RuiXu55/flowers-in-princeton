@@ -158,4 +158,5 @@
 	- [Goldenrod](qiu/Goldenrod.md)
 	- [Common Evening Primrose](qiu/CommonEveningPrimrose.md)
 	- [Late Purple American Aster](qiu/LatePurpleAmericanAster.md)
+	- [Toad Lily](qiu/ToadLilies.md)
 * [Winter](dong/README.md)

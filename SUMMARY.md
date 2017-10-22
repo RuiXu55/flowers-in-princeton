@@ -159,4 +159,5 @@
 	- [Common Evening Primrose](qiu/CommonEveningPrimrose.md)
 	- [Late Purple American Aster](qiu/LatePurpleAmericanAster.md)
 	- [Toad Lily](qiu/ToadLilies.md)
+	- [large-leaved aster](qiu/Large-leaved-Aster.md)
 * [Winter](dong/README.md)

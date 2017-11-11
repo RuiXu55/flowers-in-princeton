@@ -150,4 +150,5 @@
 	- [Carolina horsenettle](qiu/CarolinaHorsenettle.md)
 	- [Blue vervain](qiu/BlueVervain.md)
 	- [Datura](qiu/Datura.md)
+	- [Chrysanthemums](qiu/Chrysanthemums.md)
 * [Winter](dong/README.md)

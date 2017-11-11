@@ -150,9 +150,6 @@
 	- [Carolina horsenettle](qiu/CarolinaHorsenettle.md)
 	- [Blue vervain](qiu/BlueVervain.md)
 	- [Datura](qiu/Datura.md)
-<<<<<<< HEAD
-	- [Chrysanthemums](qiu/Chrysanthemums.md)
-=======
 	- [Bee Balm Horsemint](qiu/BeeBalmHorsemint.md)
 	- [White Aster](qiu/WhiteAster.md)
 	- [Frost Aster](qiu/FrostAster.md)
@@ -165,5 +162,5 @@
 	- [large-leaved aster](qiu/Large-leaved-Aster.md)
 	- [purpletop-vervain](qiu/purpletop-vervain.md)
 	- [Summer Lilac](qiu/SummerLilac.md)
->>>>>>> 9ea990de39232eba9de55827edb375771331145e
+	- [Chrysanthemums](qiu/Chrysanthemums.md)
 * [Winter](dong/README.md)

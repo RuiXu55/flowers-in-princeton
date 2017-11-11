@@ -28,7 +28,13 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": [],
+	 "plugins": ["toc"],
+    "pluginsConfig": {
+        "toc": {
+            "addClass": true,
+            "className": "toc"
+		  }
+	 }
     "title": "Sample GitBook",
     "variables": {}
 }

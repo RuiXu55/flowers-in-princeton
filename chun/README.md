@@ -6,3 +6,5 @@ See the list (48 species in total) below.
 [Bittercress](Bittercress.md)
 
 [Buttercup](Buttercup.md)
+
+[Carolina silverbell](Carolinasilverbell)

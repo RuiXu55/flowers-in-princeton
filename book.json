@@ -28,9 +28,7 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-	   "plugins": [ "page-toc" ],
-      "pluginsConfig": {
-      }
-    "title": "Flowers in Princeton University",
+    "plugins": [],
+    "title": "Sample GitBook",
     "variables": {}
 }
